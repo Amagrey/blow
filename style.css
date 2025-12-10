@@ -411,7 +411,7 @@ img{
   }
   header{
     background-image: none;
-    background-image: url("/images/pjt2BG.jpg");
+    background-image: url("./images/pjt2BG.jpg");
     background-size: cover;
     background-position: center;
     height: 80vh;
@@ -767,4 +767,5 @@ margin-bottom: 1rem;
  .big1{
     width: 8rem;
  }
+
 }
